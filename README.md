@@ -11,3 +11,4 @@ Class objectives we utilized for this project:
 5. Matplotlib for basic visuals
 
 # Project
+Our team started with the idea that Wendy's is the most successful fast food company in terms of having a social media presense. After seeing them accumulate tens of thousands of likes and retweets we decided to take a look at Wendy's tweeting habits, as well as see how it's customer interacted with it. With the result being, a fast food company such as Taco Bell can view this information and find ways to fall in the footsteps of Wendy's.
